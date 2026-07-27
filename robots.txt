@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-54ufqu.jambul126.space/sitemap.xml
